@@ -4,8 +4,12 @@
     font-size: 5rem;
 }
 
-.image {
+#image {
     margin: auto;
     display: block;
     width: 50%;
+}
+
+#paragraph {
+    text-align: center;
 }
