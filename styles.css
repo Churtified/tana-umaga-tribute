@@ -30,3 +30,11 @@ span {
     justify-content: center;
     align-items: center;
 }
+
+#timeline {
+    font-size: 2rem;
+}
+
+li {
+    font-size: 20px;
+}
