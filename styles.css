@@ -12,6 +12,11 @@ span {
     font-weight: bold;
 }
 
+#fullname {
+    text-align: center;
+    font-size: 3rem;
+}
+
 #image {
     margin: auto;
     display: block;
